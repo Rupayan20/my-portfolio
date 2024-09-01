@@ -56,8 +56,4 @@ If you would like to contribute to this project, please fork the repository and 
 
 ## **Contact**
 
-Feel free to reach out to me through the contact form on my portfolio website or connect with me on [LinkedIn](https://www.linkedin.com).
-
-## **License**
-
-This project is open source and available under the [MIT License](LICENSE).
+Feel free to reach out to me through the contact form on my portfolio website or connect with me on [LinkedIn](https://www.linkedin.com/in/rupayan-dutta/).
