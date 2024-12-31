@@ -1,7 +1,7 @@
 {
   "name": "updatedportfolio",
   "version": "1.0.0",
-  "description": "",
+  "description": "<<<<<<< HEAD\r # My Portfolio\r Link : \r =======\r # my-portfolio\r >>>>>>> bc109374da0d59a093c1a73b46836eb84d04e77a",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
@@ -32,5 +32,7 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "author": "",
+  "license": "ISC"
 }

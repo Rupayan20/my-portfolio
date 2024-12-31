@@ -32,7 +32,7 @@ export const Timeline = () => {
         </h2>
         <VerticalTimeline lineColor={linecolor}>
           <VerticalTimelineElement
-            date={"May 2024 - Present"}
+            date={"Jan 2024 - Present"}
             contentStyle={{
               boxShadow: `var(--shadow)`,
               backgroundColor: `var(--clr-bg)`,
@@ -56,7 +56,7 @@ export const Timeline = () => {
               className="vertical-timeline-element-subtitle"
               data-aos="fade-right"
             >
-              Nelly IS Marketing
+              DynamicPro Technology Solutions
             </h4>
             <p data-aos="fade-right">
             Actively participating in the testing and development stages, 
@@ -88,7 +88,7 @@ export const Timeline = () => {
               className="vertical-timeline-element-subtitle"
               data-aos="fade-right"
             >
-              DynamicPro Technology Solutions (Part Time)
+              Dynamic Tech Sols (Part Time)
             </h4>
             <p data-aos="fade-right">
             Specialized in QA and Application Testing, ensuring error-free software. 
