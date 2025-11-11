@@ -25,9 +25,7 @@ export const Introduction = () => {
               <h4>
                 Hi Everyone, I am{" "}
                 <span className="different">Rupayan Dutta </span> from{" "}
-                <span className="different"> Fulia, West Bengal</span>. I have
-                completed my graduation in Bachelor of Technology from Institute of Engineering
-                & Management, Kolkata.
+                <span className="different"> Fulia, West Bengal</span>. I am GHL Developer & Manual QA Engineer with 1.5 yrs experience in funnel building, workflow automation, CRM integration, and testing. Skilled in ensuring seamless performance and quality delivery.
               </h4>
               <h4>
                 Some of my interests apart form Coding :

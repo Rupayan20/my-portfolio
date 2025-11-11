@@ -20,7 +20,7 @@ export const About = () => {
         </h1>
         <Type />
         <p className="about__desc" data-aos="fade-right">
-        Committed QA An engineer with a keen interest in web development and familiarity with MySQL. competent in JavaScript, HTML, and CSS; at the moment, concentrating on learning React. devoted to using a variety of talents to create dependable and creative web solutions. 
+        I am a dedicated GoHighLevel (GHL) Developer and Manual QA Engineer with 1.5 years of professional experience in building, testing, and optimizing CRM automation workflows, funnels, and integrations. I specialize in developing and customizing GHL systems for lead generation, marketing automation, and client onboarding. My expertise includes funnel building, workflow automation, CRM integration, campaign management, and form/trigger configuration. On the QA side, I have hands-on experience in manual testing, test case creation, bug tracking, and functional & regression testing to ensure seamless user experiences.
         </p>
         <div className="about__contact center">
           <a
